@@ -1,8 +1,8 @@
 # EnergyHunt
 
 ## ファイル構成
-*[Unityデータ](./ProjectData/)
-*[ビルドデータ](./BuildData/)
+* [Unityデータ](./ProjectData/)
+* [ビルドデータ](./BuildData/)
 
 ## 概要
 
