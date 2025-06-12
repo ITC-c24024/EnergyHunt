@@ -17,9 +17,6 @@ public class CountdownScript : MonoBehaviour
     bool isScaling = false; //重複してコルーチンを呼ばないようにする
     bool isFalse = false;//スタートイメージを消すためのbool
 
-    [Header("制限時間スクリプト"), SerializeField]
-    TimerScript timerScript;
-
     void Start()
     {
         animationCurve = new AnimationCurve(
@@ -101,8 +98,5 @@ public class CountdownScript : MonoBehaviour
         yield return new WaitForSeconds(0.5f);//0.5秒待って下の処理を実行
 
         isFalse = true;//trueにしてスタートイメージをfalseにする
-
-        //制限時間スタート
-        //timerScript.enabled = true;
     }
 }

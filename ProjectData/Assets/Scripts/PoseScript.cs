@@ -66,9 +66,8 @@ public class PoseScript : MonoBehaviour
     void Update()
     {
         //ƒ|[ƒY‰æ–Ê‚ÉˆÚ“®
-        
         var poseAct = poseAction.triggered;
-        
+
         if (poseAct)
         {
             //“®‚¯‚È‚­‚·‚é
@@ -76,7 +75,7 @@ public class PoseScript : MonoBehaviour
 
             poseImage.SetActive(true);
         }
-        
+
 
         //Œˆ’è
         var selectAct = selectAction.triggered;

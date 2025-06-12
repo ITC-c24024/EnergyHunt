@@ -300,7 +300,7 @@ public class BombScript : MonoBehaviour
         if(other.gameObject.tag=="Explosion0"|| other.gameObject.tag == "Explosion1")
         {
             SetIsThrow(false);
-            Debug.Log("aaaaaa");
+
             Explosion();
         }
         /*

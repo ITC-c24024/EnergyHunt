@@ -46,18 +46,14 @@ public class GameController : MonoBehaviour
     [SerializeField]
     AudioClip decisionSE;
 
-
-
     // 初期化
     private void Awake()
     {
-        /*
         // デバイスの変更を監視
         InputSystem.onDeviceChange += OnDeviceChange;
 
         // 最初に接続されているデバイス一覧をログ出力
         PrintAllDevices();
-        */
     }
 
     void Start()
@@ -128,8 +124,6 @@ public class GameController : MonoBehaviour
         }
 
     }
-
-    
 
     private IEnumerator SelectScene(string name)
     {
