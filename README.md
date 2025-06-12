@@ -1,5 +1,10 @@
 # EnergyHunt
 
+## ゲーム画面
+![プレイ画面](./ScreenShot/GamePlay.png)
+![タイトル画面](./ScreenShot/Title.png)
+![リザルト画面](./ScreenShot/Result.png)
+
 ## ファイル構成
 * [Unityデータ](./ProjectData/)
 * [ビルドデータ](./BuildData/)
@@ -36,7 +41,5 @@ Unity 2022.3.24f1
 ## 制作人数
 5人(プログラマー3人、デザイナー2人)]
 
-## ゲーム画面
-![プレイ画面](./ScreenShot/GamePlay.png)
-![タイトル画面](./ScreenShot/Title.png)
-![リザルト画面](./ScreenShot/Result.png)
+## 制作中の問題とその解決
+ほげほげ
