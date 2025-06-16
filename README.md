@@ -30,7 +30,6 @@ Unity 2022.3.24f1
 KGI、KPIを設定し、学内の学生をターゲットにして遊んでもらい、  
 アンケートを取り、ゲームの改善に生かしました。
 ![試遊会の様子](./ScreenShot/IMG_2233.jpg)
-<img src=https://github.com/ITC-c24024/EnergyHunt/blob/master/ScreenShot/IMG_2233.jpg" width="50%">
 
 ## ゲームルール
 エネルギーコアを持ってバッテリーにエネルギーを溜める。  
