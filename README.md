@@ -1,4 +1,5 @@
 # EnergyHunt
+プレイ動画：https://drive.google.com/file/d/1TBJFVV34vCCFceQjOgWODmIXnNYdSzgX/view?usp=drive_link
 
 ## ゲーム画面
 ![プレイ画面](./ScreenShot/GamePlay.png)
